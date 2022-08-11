@@ -1,0 +1,57 @@
+.contact{
+    /* background-color: rgb(246, 245, 245); */
+    height: 100vh;
+}
+.text-center{
+    text-align: center;
+    padding-top: 20px;
+    font-family:'Ubuntu', sans-serif ;
+    font-size: 35px;
+}
+.form{
+    max-width: 62%;
+    margin: 25px auto;
+    margin-top: 100px;
+}
+.form-input{
+    width: 100%;
+    padding: 5px 13px;
+    font-size: 20px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    margin: 13px 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+.btn-dark{
+color: #000;
+border: 2px solid rgb(130, 129, 129);
+
+}
+.background{
+    background: rgba(0, 0, 0, 0.5) url("https://1.bp.blogspot.com/-JIA1QXWFFiU/YBWEd7ZCW7I/AAAAAAAAAXc/0vxefv7yhUw5OX2o1ARIqRlJXDK4JcQkACLcBGAsYHQ/s800/happy-raksha-bandhan-2021-image-png.webp");
+    background-size: cover;
+    background-blend-mode: darken;
+}
+.btn{
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 45%;
+    font-size: large;
+    width: 10%;
+    border: 1px solid;
+    border-radius: 20px;
+}
+button:hover{
+    color: #fff;
+    background-color: rgb(57, 243, 10);
+}
+.logo img{
+    width: 10%;
+    padding-top: 50px;
+    border: 4px;
+    display: block;
+    /* margin-top: 50px; */
+    border-radius: 150px;
+    /* height: 50%; */
+    margin-left: 45%;
+    }
